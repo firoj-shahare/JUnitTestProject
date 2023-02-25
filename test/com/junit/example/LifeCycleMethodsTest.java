@@ -42,5 +42,10 @@ public class LifeCycleMethodsTest {
 	public void regularMethod2() {
 		System.out.println(" Regular Method 2 Executed");
 	}
+	
+	@Test
+	public void test1() {
+		System.out.println("Test Excution");
+	}
 
 }
